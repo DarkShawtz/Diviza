@@ -1,0 +1,15 @@
+{
+  "name": "Diviza",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "Diviza": {
+          "$path": "src/Diviza"
+        }
+      }
+    }
+  }
+}
